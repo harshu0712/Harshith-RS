@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Harshith R S Resume</title>
+  <style>
+    h2
+    {
+        background-color: rgb(213, 207, 207);
+    }
+  </style>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1 align="center"> Harshith R S</h1>
+    <p align="center">Ronur(V) Srinivaspur(T) Kolar(D)<br>
+       Contact: 7899909704 <br>
+       Email  : harshumahi2003@gmail.com<br>
+       DOB    : 14-11-2003   
+    </p>
+  </header>
+  <main>
+    <h2>Objective</h2>
+    <p>To establish myself as a successful person with excellence in terms of achievement, creation and dedication to work for an organisation and to improve my skills and contribute to the growth of organization</p>
+    <h2>Education</h2>
+    <section>
+      <h3>Bachelors of Computer Application - Bengaluru North University</h3>
+      <p>Nagarjuna college of management studies, chikkballapur (2021-2024)</p>
+    </section>
+    <section>
+      <h3>12th Standard - PU Board</h3>
+      <p>Vision Indian PU college (2019-2021)</p>
+    </section>
+    <section>
+      <h3>10th Standard - NCRET</h3>
+      <p>Sri Byraveshwara Vidyanikethana (2018)</p>
+    </section>
+    <h2>Languages</h2>
+    <ul>
+      <li>English</li>
+      <li>Kannada</li>
+      <li>Hindi</li>
+      <li>Telugu</li>
+    </ul>
+    <h2>Skills</h2>
+    <ul>
+      <li>Basic Knowledge in R programming, C</li>
+      <li>Basic Knowledge in HTML</li>
+      <li>Knowledge in MS Office</li>
+    </ul>
+    <h2>Soft Skills</h2>
+    <ul>
+      <li>Strong Communication</li>
+      <li>Time Management</li>
+      <li>Quick Learning</li>
+      <li>Leadership skill</li>
+      <li>Team work</li>
+      <li>Critical thinking</li>
+    </ul>
+  </main>
+</body>
+</html>
